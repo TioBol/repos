@@ -1,12 +1,1 @@
-triste
-y
-malo
-
-<<<<<<< HEAD
-
-ahora ho
-=======
-chanchito feliz
-
-ahora esto no se deberia ver en rama main
->>>>>>> ramab
+nada que ver
